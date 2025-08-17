@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhang9802
+- 👋 Hi, I’m zhang9802
 - 👀 I’m interested in wireless communications and deep learning. I am a Phdc at dlut.
 - 🌱 I’m currently learning generative artificial intelligence and large language model
 - 💞️ I’m looking to collaborate on integrated sensing and communications, large language model and deep learning
