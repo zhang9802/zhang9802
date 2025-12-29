@@ -1,5 +1,5 @@
 - 👋 Hi, I’m zhang9802
-- 👀 I’m interested in wireless communications and deep learning. I am a Phdc at dlut.
+- 👀 I’m interested in wireless communications and deep learning. I am a Phdc.
 - 🌱 I’m currently learning generative artificial intelligence and large language model
 - 💞️ I’m looking to collaborate on integrated sensing and communications, large language model and deep learning
 - 📫 If you have any questions, please feel free to contanct me via email:jifazhang9802@gmail.com
